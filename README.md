@@ -1,4 +1,5 @@
 # WIA2007 Mobile Application Development Group Assignment 2023/2024 📱
+## EmpowerSafe - Domestic Violence App
 This project is developed for the course Mobile Application Development. In this project, we had selected SDG 16 as our goal, and more specifically, in the context of domestic violence. Our app includes five main functional modules, which include emergency alarm, evidence capture, support helplines, education and risk assessment.
 
 ### Usage
